@@ -1,0 +1,15 @@
+C:\SRC\Aula3\Aula3\bin\Debug\net6.0\Aula3.exe
+C:\SRC\Aula3\Aula3\bin\Debug\net6.0\Aula3.deps.json
+C:\SRC\Aula3\Aula3\bin\Debug\net6.0\Aula3.runtimeconfig.json
+C:\SRC\Aula3\Aula3\bin\Debug\net6.0\Aula3.dll
+C:\SRC\Aula3\Aula3\bin\Debug\net6.0\Aula3.pdb
+C:\SRC\Aula3\Aula3\obj\Debug\net6.0\Aula3.csproj.AssemblyReference.cache
+C:\SRC\Aula3\Aula3\obj\Debug\net6.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\SRC\Aula3\Aula3\obj\Debug\net6.0\Aula3.AssemblyInfoInputs.cache
+C:\SRC\Aula3\Aula3\obj\Debug\net6.0\Aula3.AssemblyInfo.cs
+C:\SRC\Aula3\Aula3\obj\Debug\net6.0\Aula3.csproj.CoreCompileInputs.cache
+C:\SRC\Aula3\Aula3\obj\Debug\net6.0\Aula3.dll
+C:\SRC\Aula3\Aula3\obj\Debug\net6.0\refint\Aula3.dll
+C:\SRC\Aula3\Aula3\obj\Debug\net6.0\Aula3.pdb
+C:\SRC\Aula3\Aula3\obj\Debug\net6.0\Aula3.genruntimeconfig.cache
+C:\SRC\Aula3\Aula3\obj\Debug\net6.0\ref\Aula3.dll
